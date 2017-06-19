@@ -1,5 +1,5 @@
 # Qt Docs
-Python scripts for downloading minimal versions of the docs for Qt
+Python scripts for downloading minimal versions of the docs for Qt cause why waste 300 mb for lines and spaces
 
 ### Usage:
  * run `download.py` to download and minify all the files in `files.txt` (takes forever)
